@@ -1,0 +1,5 @@
+﻿  Versiera.cpp
+  main.cpp
+  Создание кода...
+C:\Users\79044\source\repos\Лаб1бСем3 2\Лаб1бСем3\Lab1bSem3\Versiera.cpp(40): warning C4715: Lab2::Versiera::Inflections: значение возвращается не при всех путях выполнения
+  Лаб1бСем3.vcxproj -> C:\Users\79044\source\repos\Лаб1бСем3 2\Лаб1бСем3\Debug\Лаб1бСем3.exe
